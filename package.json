@@ -1,0 +1,7 @@
+{
+  "name": "dose",
+  "version": "1.0.0",
+  "description": "doser",
+  "main": "index.js",
+  "license": "MIT"
+}
