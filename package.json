@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "description": "doser",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.58.0"
+  }
 }
